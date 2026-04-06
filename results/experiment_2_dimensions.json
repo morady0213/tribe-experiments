@@ -1,0 +1,485 @@
+{
+  "n_texts": 30,
+  "dim_labels": [
+    "Comprehension",
+    "Memory",
+    "Attention",
+    "Confusion",
+    "DMN suppress."
+  ],
+  "quality_means": {
+    "low": [
+      -0.02462411224157917,
+      -0.06220863692894152,
+      0.01874708498574637,
+      0.05927291401986765,
+      0.03515960001595207
+    ],
+    "med": [
+      0.013567560343699792,
+      -0.04040986614028952,
+      0.018526555778301472,
+      0.02283531169892394,
+      0.04619166542858028
+    ],
+    "high": [
+      0.08370608157397927,
+      -0.03266530937490407,
+      0.006680368532347271,
+      0.010268477164981917,
+      0.013062538343847352
+    ]
+  },
+  "correlation_matrix": [
+    [
+      0.9999999999999999,
+      0.8937206775313304,
+      0.5926011371544272,
+      -0.13832344267905564,
+      -0.8390157100895378
+    ],
+    [
+      0.8937206775313306,
+      1.0,
+      0.6788355128263556,
+      -0.11450903350366072,
+      -0.6606293310678208
+    ],
+    [
+      0.5926011371544272,
+      0.6788355128263556,
+      1.0,
+      0.5448227668152185,
+      -0.6938657994967868
+    ],
+    [
+      -0.13832344267905564,
+      -0.11450903350366073,
+      0.5448227668152185,
+      1.0,
+      -0.22608611792213423
+    ],
+    [
+      -0.8390157100895377,
+      -0.6606293310678207,
+      -0.6938657994967868,
+      -0.22608611792213426,
+      1.0
+    ]
+  ],
+  "dim_trends": [
+    0.10833019381555845,
+    0.02954332755403745,
+    -0.0120667164533991,
+    -0.04900443685488574,
+    -0.02209706167210472
+  ],
+  "per_text": [
+    {
+      "index": 0,
+      "quality": 1,
+      "topic": "AI",
+      "text_preview": "AI is really cool and amazing technology that will change everything in the futu",
+      "dimensions": {
+        "comprehension": -0.10758871582333739,
+        "memory_encoding": -0.08002883179966981,
+        "sustained_attention": -0.012420036622100939,
+        "confusion": 0.05456485333737017,
+        "dmn_suppression": 0.07979690357425889
+      },
+      "inference_time": 40.42267560958862
+    },
+    {
+      "index": 1,
+      "quality": 1,
+      "topic": "economy",
+      "text_preview": "The economy is complicated. There are many factors involved. Some experts think ",
+      "dimensions": {
+        "comprehension": 0.04962560199869749,
+        "memory_encoding": -0.047045897250063716,
+        "sustained_attention": 0.06016630982573818,
+        "confusion": 0.09989785282124096,
+        "dmn_suppression": -0.016277784155855485
+      },
+      "inference_time": 40.54528331756592
+    },
+    {
+      "index": 2,
+      "quality": 1,
+      "topic": "exercise",
+      "text_preview": "Great question! Exercise is super important for health. You should definitely ex",
+      "dimensions": {
+        "comprehension": -0.037309247999607276,
+        "memory_encoding": -0.07576607061200775,
+        "sustained_attention": -0.001999601743821718,
+        "confusion": 0.04415863984426068,
+        "dmn_suppression": 0.041346478895388485
+      },
+      "inference_time": 40.5157630443573
+    },
+    {
+      "index": 3,
+      "quality": 1,
+      "topic": "programming",
+      "text_preview": "Programming is when you tell a computer what to do. You write code and the compu",
+      "dimensions": {
+        "comprehension": 0.1338617530505125,
+        "memory_encoding": -0.02388681666343473,
+        "sustained_attention": 0.01876884272518318,
+        "confusion": 0.027471726132972427,
+        "dmn_suppression": 0.008699136475142814
+      },
+      "inference_time": 40.135324001312256
+    },
+    {
+      "index": 4,
+      "quality": 1,
+      "topic": "climate",
+      "text_preview": "Climate change is a big issue. We need to take action. Everyone should do their ",
+      "dimensions": {
+        "comprehension": -0.06068076660238801,
+        "memory_encoding": -0.07220062676351517,
+        "sustained_attention": 0.007396763344172087,
+        "confusion": 0.06860701594894275,
+        "dmn_suppression": 0.03967627431500578
+      },
+      "inference_time": 41.99104642868042
+    },
+    {
+      "index": 5,
+      "quality": 1,
+      "topic": "sleep",
+      "text_preview": "Sleep is important for your body. You should get enough sleep every night. Not g",
+      "dimensions": {
+        "comprehension": -0.0410140055232944,
+        "memory_encoding": -0.062089877321462456,
+        "sustained_attention": 0.04554678016486566,
+        "confusion": 0.08571449162107546,
+        "dmn_suppression": 0.044994151481225694
+      },
+      "inference_time": 42.8755943775177
+    },
+    {
+      "index": 6,
+      "quality": 1,
+      "topic": "history",
+      "text_preview": "History teaches us many lessons. We can learn from the past to make better decis",
+      "dimensions": {
+        "comprehension": -0.044825655317936954,
+        "memory_encoding": -0.08439461074352342,
+        "sustained_attention": -0.017987271578113126,
+        "confusion": 0.028574491337565646,
+        "dmn_suppression": 0.053096967563380615
+      },
+      "inference_time": 41.27228283882141
+    },
+    {
+      "index": 7,
+      "quality": 1,
+      "topic": "cooking",
+      "text_preview": "Cooking is a useful skill to have. You can make many different dishes. Some peop",
+      "dimensions": {
+        "comprehension": -0.037805788401657575,
+        "memory_encoding": -0.05683422146054606,
+        "sustained_attention": 0.02672027220874613,
+        "confusion": 0.06547471109829643,
+        "dmn_suppression": 0.032272701037860015
+      },
+      "inference_time": 42.29571986198425
+    },
+    {
+      "index": 8,
+      "quality": 1,
+      "topic": "reading",
+      "text_preview": "Reading books is good for your brain. It improves vocabulary and knowledge. Ever",
+      "dimensions": {
+        "comprehension": -0.06621434706311004,
+        "memory_encoding": -0.057401655930637695,
+        "sustained_attention": 0.031457481485842945,
+        "confusion": 0.07658603726833296,
+        "dmn_suppression": 0.05685495002692176
+      },
+      "inference_time": 41.63093638420105
+    },
+    {
+      "index": 9,
+      "quality": 1,
+      "topic": "space",
+      "text_preview": "Space is really big and interesting. There are many planets and stars. Scientist",
+      "dimensions": {
+        "comprehension": -0.034289950733670055,
+        "memory_encoding": -0.0624377607445543,
+        "sustained_attention": 0.02982131004695132,
+        "confusion": 0.04167932078861901,
+        "dmn_suppression": 0.01113622094619213
+      },
+      "inference_time": 42.24792170524597
+    },
+    {
+      "index": 10,
+      "quality": 2,
+      "topic": "AI",
+      "text_preview": "Artificial intelligence uses machine learning algorithms to identify patterns in",
+      "dimensions": {
+        "comprehension": 0.015521872225516022,
+        "memory_encoding": -0.022895840533237788,
+        "sustained_attention": 0.02313249214933855,
+        "confusion": 0.02576582984900687,
+        "dmn_suppression": 0.05888175150143233
+      },
+      "inference_time": 42.04325604438782
+    },
+    {
+      "index": 11,
+      "quality": 2,
+      "topic": "economy",
+      "text_preview": "Inflation occurs when the general price level rises, reducing purchasing power. ",
+      "dimensions": {
+        "comprehension": -0.024461531807811788,
+        "memory_encoding": -0.053834580157611826,
+        "sustained_attention": -0.00796597133075963,
+        "confusion": 0.010450967733771348,
+        "dmn_suppression": 0.055956059601157904
+      },
+      "inference_time": 42.27470302581787
+    },
+    {
+      "index": 12,
+      "quality": 2,
+      "topic": "exercise",
+      "text_preview": "Regular cardiovascular exercise strengthens the heart muscle, improves circulati",
+      "dimensions": {
+        "comprehension": -0.055005769082942066,
+        "memory_encoding": -0.05470856722677127,
+        "sustained_attention": 0.008648625941021164,
+        "confusion": 0.04184569665037186,
+        "dmn_suppression": 0.06610861152637257
+      },
+      "inference_time": 42.13576030731201
+    },
+    {
+      "index": 13,
+      "quality": 2,
+      "topic": "programming",
+      "text_preview": "Object-oriented programming organizes code into classes and objects. Classes def",
+      "dimensions": {
+        "comprehension": -0.036111563463599824,
+        "memory_encoding": -0.052061334515262084,
+        "sustained_attention": -0.017568220357030335,
+        "confusion": 0.0038162124115196324,
+        "dmn_suppression": 0.0722089967146449
+      },
+      "inference_time": 41.73628640174866
+    },
+    {
+      "index": 14,
+      "quality": 2,
+      "topic": "climate",
+      "text_preview": "The greenhouse effect occurs when atmospheric gases trap solar radiation reflect",
+      "dimensions": {
+        "comprehension": 0.03827243694431113,
+        "memory_encoding": -0.045660911959566876,
+        "sustained_attention": 0.023008582894958034,
+        "confusion": 0.05451237877988649,
+        "dmn_suppression": 0.019432233437138208
+      },
+      "inference_time": 42.022236585617065
+    },
+    {
+      "index": 15,
+      "quality": 2,
+      "topic": "sleep",
+      "text_preview": "During sleep, the brain cycles through REM and non-REM stages approximately ever",
+      "dimensions": {
+        "comprehension": 0.03325703480830178,
+        "memory_encoding": -0.03661089814656104,
+        "sustained_attention": 0.037135620676171,
+        "confusion": 0.02299439390517063,
+        "dmn_suppression": 0.06266849251019198
+      },
+      "inference_time": 42.03156661987305
+    },
+    {
+      "index": 16,
+      "quality": 2,
+      "topic": "history",
+      "text_preview": "The Roman Republic transitioned to an Empire under Augustus in 27 BCE. The Senat",
+      "dimensions": {
+        "comprehension": 0.024002939640355554,
+        "memory_encoding": -0.05541699020541273,
+        "sustained_attention": -0.0069414216661589515,
+        "confusion": 0.012848849260163579,
+        "dmn_suppression": 0.021394860588282143
+      },
+      "inference_time": 41.63014507293701
+    },
+    {
+      "index": 17,
+      "quality": 2,
+      "topic": "cooking",
+      "text_preview": "The Maillard reaction occurs when amino acids and reducing sugars react at tempe",
+      "dimensions": {
+        "comprehension": 0.06588794669876688,
+        "memory_encoding": -0.013880750766353837,
+        "sustained_attention": 0.06006932077142335,
+        "confusion": 0.003858250976557707,
+        "dmn_suppression": 0.048605911237354485
+      },
+      "inference_time": 42.07638621330261
+    },
+    {
+      "index": 18,
+      "quality": 2,
+      "topic": "reading",
+      "text_preview": "Reading comprehension involves decoding text, building mental models, and integr",
+      "dimensions": {
+        "comprehension": -0.07063595594754682,
+        "memory_encoding": -0.07306234227338185,
+        "sustained_attention": -0.01499585890883377,
+        "confusion": 0.0141287286731478,
+        "dmn_suppression": 0.0943817356436291
+      },
+      "inference_time": 41.68623232841492
+    },
+    {
+      "index": 19,
+      "quality": 2,
+      "topic": "space",
+      "text_preview": "Mars has a thin atmosphere composed primarily of carbon dioxide. Surface tempera",
+      "dimensions": {
+        "comprehension": 0.14494819342164705,
+        "memory_encoding": 0.004033554381264063,
+        "sustained_attention": 0.08074238761288531,
+        "confusion": 0.038131808749643496,
+        "dmn_suppression": -0.037721998474400824
+      },
+      "inference_time": 41.68061923980713
+    },
+    {
+      "index": 20,
+      "quality": 3,
+      "topic": "AI",
+      "text_preview": "Here's the uncomfortable truth about AI: it doesn't understand anything. GPT-4 c",
+      "dimensions": {
+        "comprehension": 0.04465790049537109,
+        "memory_encoding": -0.04391531660609568,
+        "sustained_attention": -0.017809504681935807,
+        "confusion": 0.014242936680347163,
+        "dmn_suppression": 0.04712863474343243
+      },
+      "inference_time": 42.00366568565369
+    },
+    {
+      "index": 21,
+      "quality": 3,
+      "topic": "economy",
+      "text_preview": "Your grandparents bought a house for $20,000. That same house costs $400,000 now",
+      "dimensions": {
+        "comprehension": 0.15145272056954967,
+        "memory_encoding": -0.018368191804135372,
+        "sustained_attention": 0.02606479039846684,
+        "confusion": 0.010203110033449956,
+        "dmn_suppression": -0.02693727650243525
+      },
+      "inference_time": 42.251352071762085
+    },
+    {
+      "index": 22,
+      "quality": 3,
+      "topic": "exercise",
+      "text_preview": "Your body doesn't distinguish between running from a lion and running on a tread",
+      "dimensions": {
+        "comprehension": -0.015410095045987804,
+        "memory_encoding": -0.05170479904433402,
+        "sustained_attention": -0.026701430319534883,
+        "confusion": 0.0029812965211112145,
+        "dmn_suppression": 0.05617865947129052
+      },
+      "inference_time": 44.077367067337036
+    },
+    {
+      "index": 23,
+      "quality": 3,
+      "topic": "programming",
+      "text_preview": "Most people learn to code by memorizing syntax. That's like learning to write by",
+      "dimensions": {
+        "comprehension": 0.009943905929431843,
+        "memory_encoding": -0.04590873773753022,
+        "sustained_attention": -0.033064915956023705,
+        "confusion": -0.009542672514380533,
+        "dmn_suppression": 0.08747733267347342
+      },
+      "inference_time": 43.60006642341614
+    },
+    {
+      "index": 25,
+      "quality": 3,
+      "topic": "sleep",
+      "text_preview": "Sleep isn't downtime \u2014 it's when your brain takes out the trash. During deep sle",
+      "dimensions": {
+        "comprehension": -0.06778089364050315,
+        "memory_encoding": -0.06425137756353555,
+        "sustained_attention": -0.0415518135200831,
+        "confusion": -0.01003843623267348,
+        "dmn_suppression": 0.13355580114745605
+      },
+      "inference_time": 191.9381387233734
+    },
+    {
+      "index": 26,
+      "quality": 3,
+      "topic": "history",
+      "text_preview": "Rome didn't fall because barbarians were strong. It fell because Romans stopped ",
+      "dimensions": {
+        "comprehension": 0.06979351798727666,
+        "memory_encoding": -0.043743594076174,
+        "sustained_attention": -0.021383077756482488,
+        "confusion": -0.004666451334749822,
+        "dmn_suppression": -0.005260111463071349
+      },
+      "inference_time": 189.0593388080597
+    },
+    {
+      "index": 27,
+      "quality": 3,
+      "topic": "cooking",
+      "text_preview": "Salt doesn't add flavor \u2014 it removes the barrier to tasting what's already there",
+      "dimensions": {
+        "comprehension": 0.2180831718326618,
+        "memory_encoding": 0.014511694281827659,
+        "sustained_attention": 0.09943490089127097,
+        "confusion": 0.07193026149670463,
+        "dmn_suppression": -0.07432675023855113
+      },
+      "inference_time": 193.61672925949097
+    },
+    {
+      "index": 28,
+      "quality": 3,
+      "topic": "reading",
+      "text_preview": "Speed-reading is mostly a scam. Comprehension drops off a cliff above 400 words ",
+      "dimensions": {
+        "comprehension": 0.1889076869738981,
+        "memory_encoding": -0.009011951094726101,
+        "sustained_attention": 0.04125247607216516,
+        "confusion": 0.013647877358665982,
+        "dmn_suppression": -0.04069086362185555
+      },
+      "inference_time": 188.96068716049194
+    },
+    {
+      "index": 29,
+      "quality": 3,
+      "topic": "space",
+      "text_preview": "The most unsettling fact about space isn't its size \u2014 it's its silence. We've po",
+      "dimensions": {
+        "comprehension": 0.1537068190641152,
+        "memory_encoding": -0.03159551072943335,
+        "sustained_attention": 0.033881891663282454,
+        "confusion": 0.0036583724763621537,
+        "dmn_suppression": -0.05956258111511298
+      },
+      "inference_time": 183.00731921195984
+    }
+  ]
+}

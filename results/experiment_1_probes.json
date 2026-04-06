@@ -1,0 +1,577 @@
+{
+  "timestamp": "2026-04-01T21:29:10.412916",
+  "n_probes": 10,
+  "avg_max_divergence": 0.2797164961695671,
+  "results": [
+    {
+      "name": "clarity",
+      "dimension": "Clear vs jargon-heavy",
+      "max_abs_diff": 0.3392450511455536,
+      "mean_abs_diff": 0.06922348588705063,
+      "std_diff": 0.07438743859529495,
+      "pct_parcels_changed": 24.69244288224956,
+      "dimension_deltas": {
+        "Comprehension": -0.005119023874591594,
+        "Memory encoding": -0.02233849154630055,
+        "Sustained attention": -0.06680175906133785,
+        "Confusion": -0.03889860244005321,
+        "DMN suppression": 0.02759946335768223
+      },
+      "top_divergent_parcels": [
+        {
+          "index": 18055,
+          "diff": -0.3392450511455536
+        },
+        {
+          "index": 7785,
+          "diff": -0.3328123092651367
+        },
+        {
+          "index": 7784,
+          "diff": -0.3321617841720581
+        },
+        {
+          "index": 15509,
+          "diff": -0.3174116313457489
+        },
+        {
+          "index": 7786,
+          "diff": -0.3142980933189392
+        },
+        {
+          "index": 14146,
+          "diff": -0.31393182277679443
+        },
+        {
+          "index": 7783,
+          "diff": -0.31342360377311707
+        },
+        {
+          "index": 7782,
+          "diff": -0.3129519522190094
+        },
+        {
+          "index": 1932,
+          "diff": -0.31248152256011963
+        },
+        {
+          "index": 8399,
+          "diff": -0.31031012535095215
+        }
+      ]
+    },
+    {
+      "name": "depth",
+      "dimension": "Surface-level vs builds intuition",
+      "max_abs_diff": 0.3043951392173767,
+      "mean_abs_diff": 0.050809431821107864,
+      "std_diff": 0.06594030559062958,
+      "pct_parcels_changed": 13.058972856863893,
+      "dimension_deltas": {
+        "Comprehension": 0.10874211339388962,
+        "Memory encoding": 0.02593906137238567,
+        "Sustained attention": 0.0360645244854788,
+        "Confusion": 0.008914245985504159,
+        "DMN suppression": -0.015504735389701783
+      },
+      "top_divergent_parcels": [
+        {
+          "index": 1677,
+          "diff": 0.3043951392173767
+        },
+        {
+          "index": 5132,
+          "diff": 0.2922874689102173
+        },
+        {
+          "index": 5127,
+          "diff": 0.28987520933151245
+        },
+        {
+          "index": 6823,
+          "diff": 0.2874720096588135
+        },
+        {
+          "index": 14638,
+          "diff": 0.2859601676464081
+        },
+        {
+          "index": 5133,
+          "diff": 0.28096139430999756
+        },
+        {
+          "index": 18842,
+          "diff": 0.28070691227912903
+        },
+        {
+          "index": 14637,
+          "diff": 0.27883821725845337
+        },
+        {
+          "index": 1230,
+          "diff": 0.27781951427459717
+        },
+        {
+          "index": 12247,
+          "diff": 0.2774621248245239
+        }
+      ]
+    },
+    {
+      "name": "structure",
+      "dimension": "Disorganized vs well-structured",
+      "max_abs_diff": 0.1378919780254364,
+      "mean_abs_diff": 0.025552991777658463,
+      "std_diff": 0.030103469267487526,
+      "pct_parcels_changed": 0.3270845537980863,
+      "dimension_deltas": {
+        "Comprehension": 0.008862233529559893,
+        "Memory encoding": 0.0093604946625419,
+        "Sustained attention": -0.016803773236746623,
+        "Confusion": -0.034304397923425455,
+        "DMN suppression": 0.01021260739158171
+      },
+      "top_divergent_parcels": [
+        {
+          "index": 18576,
+          "diff": -0.1378919780254364
+        },
+        {
+          "index": 12150,
+          "diff": -0.13703399896621704
+        },
+        {
+          "index": 11157,
+          "diff": -0.1364601105451584
+        },
+        {
+          "index": 11464,
+          "diff": -0.13373422622680664
+        },
+        {
+          "index": 13386,
+          "diff": -0.133724182844162
+        },
+        {
+          "index": 12149,
+          "diff": -0.13261714577674866
+        },
+        {
+          "index": 14431,
+          "diff": -0.13260746002197266
+        },
+        {
+          "index": 14432,
+          "diff": -0.13187527656555176
+        },
+        {
+          "index": 13384,
+          "diff": -0.13035637140274048
+        },
+        {
+          "index": 16496,
+          "diff": -0.12931478023529053
+        }
+      ]
+    },
+    {
+      "name": "accuracy",
+      "dimension": "Subtly wrong vs factually precise",
+      "max_abs_diff": 0.17373564839363098,
+      "mean_abs_diff": 0.03756099194288254,
+      "std_diff": 0.02893475443124771,
+      "pct_parcels_changed": 1.3815661003710213,
+      "dimension_deltas": {
+        "Comprehension": 0.054279516631250795,
+        "Memory encoding": 0.01981348270031352,
+        "Sustained attention": 0.0316972752887207,
+        "Confusion": 0.03717953921812837,
+        "DMN suppression": -0.035672447252955625
+      },
+      "top_divergent_parcels": [
+        {
+          "index": 11987,
+          "diff": 0.17373564839363098
+        },
+        {
+          "index": 18155,
+          "diff": 0.17064692080020905
+        },
+        {
+          "index": 18154,
+          "diff": 0.16189135611057281
+        },
+        {
+          "index": 20463,
+          "diff": 0.15181948244571686
+        },
+        {
+          "index": 13507,
+          "diff": 0.15124258399009705
+        },
+        {
+          "index": 14110,
+          "diff": 0.1502682864665985
+        },
+        {
+          "index": 20462,
+          "diff": 0.14876747131347656
+        },
+        {
+          "index": 10392,
+          "diff": 0.14226460456848145
+        },
+        {
+          "index": 10648,
+          "diff": 0.14217886328697205
+        },
+        {
+          "index": 13076,
+          "diff": 0.1403505504131317
+        }
+      ]
+    },
+    {
+      "name": "sycophancy",
+      "dimension": "Validates wrong premise vs corrects respectfully",
+      "max_abs_diff": 0.44211360812187195,
+      "mean_abs_diff": 0.07531889528036118,
+      "std_diff": 0.08198785781860352,
+      "pct_parcels_changed": 26.698886936145282,
+      "dimension_deltas": {
+        "Comprehension": 0.19163606922194443,
+        "Memory encoding": 0.07159303985754377,
+        "Sustained attention": 0.0607031532268819,
+        "Confusion": 0.01754245684724609,
+        "DMN suppression": -0.10581719248919182
+      },
+      "top_divergent_parcels": [
+        {
+          "index": 18155,
+          "diff": 0.44211360812187195
+        },
+        {
+          "index": 18154,
+          "diff": 0.42564064264297485
+        },
+        {
+          "index": 11987,
+          "diff": 0.4015597999095917
+        },
+        {
+          "index": 9963,
+          "diff": 0.39933815598487854
+        },
+        {
+          "index": 6263,
+          "diff": 0.3977765738964081
+        },
+        {
+          "index": 151,
+          "diff": 0.39645999670028687
+        },
+        {
+          "index": 3277,
+          "diff": 0.39119553565979004
+        },
+        {
+          "index": 20466,
+          "diff": 0.38842007517814636
+        },
+        {
+          "index": 6265,
+          "diff": 0.3835824131965637
+        },
+        {
+          "index": 20463,
+          "diff": 0.3795085847377777
+        }
+      ]
+    },
+    {
+      "name": "memorability",
+      "dimension": "Forgettable vs vivid and memorable",
+      "max_abs_diff": 0.31376659870147705,
+      "mean_abs_diff": 0.05348045006394386,
+      "std_diff": 0.07241372764110565,
+      "pct_parcels_changed": 16.31029095879711,
+      "dimension_deltas": {
+        "Comprehension": 0.09530660407155386,
+        "Memory encoding": 0.02092830076338335,
+        "Sustained attention": -0.018526723641694765,
+        "Confusion": -0.02018649241990941,
+        "DMN suppression": -0.020486256349206304
+      },
+      "top_divergent_parcels": [
+        {
+          "index": 18055,
+          "diff": -0.31376659870147705
+        },
+        {
+          "index": 16522,
+          "diff": -0.28794926404953003
+        },
+        {
+          "index": 16498,
+          "diff": -0.2873055934906006
+        },
+        {
+          "index": 405,
+          "diff": 0.2841549813747406
+        },
+        {
+          "index": 14040,
+          "diff": -0.2828129827976227
+        },
+        {
+          "index": 11156,
+          "diff": -0.28059178590774536
+        },
+        {
+          "index": 6810,
+          "diff": 0.2690941095352173
+        },
+        {
+          "index": 8328,
+          "diff": 0.2689586877822876
+        },
+        {
+          "index": 120,
+          "diff": 0.26816126704216003
+        },
+        {
+          "index": 782,
+          "diff": -0.2675366997718811
+        }
+      ]
+    },
+    {
+      "name": "engagement",
+      "dimension": "Dry encyclopedia vs compelling narrative",
+      "max_abs_diff": 0.34411364793777466,
+      "mean_abs_diff": 0.06382591277360916,
+      "std_diff": 0.07336290180683136,
+      "pct_parcels_changed": 21.42647920328061,
+      "dimension_deltas": {
+        "Comprehension": 0.13609933264119228,
+        "Memory encoding": 0.038727016708677786,
+        "Sustained attention": 0.07001151328079666,
+        "Confusion": 0.024191125154520855,
+        "DMN suppression": -0.07156674227062196
+      },
+      "top_divergent_parcels": [
+        {
+          "index": 6263,
+          "diff": 0.34411364793777466
+        },
+        {
+          "index": 6265,
+          "diff": 0.3332388699054718
+        },
+        {
+          "index": 6262,
+          "diff": 0.3246467709541321
+        },
+        {
+          "index": 18155,
+          "diff": 0.32142263650894165
+        },
+        {
+          "index": 4195,
+          "diff": 0.31479722261428833
+        },
+        {
+          "index": 919,
+          "diff": 0.31216612458229065
+        },
+        {
+          "index": 918,
+          "diff": 0.3114686906337738
+        },
+        {
+          "index": 17562,
+          "diff": 0.3088829219341278
+        },
+        {
+          "index": 17188,
+          "diff": 0.2989558279514313
+        },
+        {
+          "index": 2840,
+          "diff": 0.29661697149276733
+        }
+      ]
+    },
+    {
+      "name": "concision",
+      "dimension": "Bloated and repetitive vs tight and efficient",
+      "max_abs_diff": 0.24311548471450806,
+      "mean_abs_diff": 0.044737376272678375,
+      "std_diff": 0.05835318937897682,
+      "pct_parcels_changed": 8.83128295254833,
+      "dimension_deltas": {
+        "Comprehension": -0.05120512593973381,
+        "Memory encoding": -0.027136568327356753,
+        "Sustained attention": 0.022484631073317007,
+        "Confusion": 0.029240190412768367,
+        "DMN suppression": 0.04827013788935937
+      },
+      "top_divergent_parcels": [
+        {
+          "index": 1906,
+          "diff": -0.24311548471450806
+        },
+        {
+          "index": 16508,
+          "diff": -0.24286746978759766
+        },
+        {
+          "index": 10650,
+          "diff": -0.24225643277168274
+        },
+        {
+          "index": 16509,
+          "diff": -0.24197186529636383
+        },
+        {
+          "index": 11163,
+          "diff": -0.24054129421710968
+        },
+        {
+          "index": 5524,
+          "diff": -0.23958703875541687
+        },
+        {
+          "index": 13082,
+          "diff": -0.23909135162830353
+        },
+        {
+          "index": 611,
+          "diff": -0.2379421889781952
+        },
+        {
+          "index": 19614,
+          "diff": -0.23266535997390747
+        },
+        {
+          "index": 8328,
+          "diff": -0.23033905029296875
+        }
+      ]
+    },
+    {
+      "name": "formality",
+      "dimension": "Too casual vs appropriately professional",
+      "max_abs_diff": 0.32283562421798706,
+      "mean_abs_diff": 0.058308955281972885,
+      "std_diff": 0.05965437367558479,
+      "pct_parcels_changed": 18.52665495020504,
+      "dimension_deltas": {
+        "Comprehension": 0.13681583900567298,
+        "Memory encoding": 0.021433360716522052,
+        "Sustained attention": 0.04452666681389035,
+        "Confusion": 0.00875972519524796,
+        "DMN suppression": -0.10882115154223057
+      },
+      "top_divergent_parcels": [
+        {
+          "index": 1223,
+          "diff": 0.32283562421798706
+        },
+        {
+          "index": 5110,
+          "diff": 0.32215338945388794
+        },
+        {
+          "index": 6809,
+          "diff": 0.3139098882675171
+        },
+        {
+          "index": 405,
+          "diff": 0.31328433752059937
+        },
+        {
+          "index": 16256,
+          "diff": 0.3094673454761505
+        },
+        {
+          "index": 6811,
+          "diff": 0.30793753266334534
+        },
+        {
+          "index": 19865,
+          "diff": 0.30472204089164734
+        },
+        {
+          "index": 9462,
+          "diff": 0.30393466353416443
+        },
+        {
+          "index": 4185,
+          "diff": 0.30063122510910034
+        },
+        {
+          "index": 8328,
+          "diff": 0.3002576529979706
+        }
+      ]
+    },
+    {
+      "name": "emotional_warmth",
+      "dimension": "Cold and robotic vs warm and human",
+      "max_abs_diff": 0.17595218122005463,
+      "mean_abs_diff": 0.025459352880716324,
+      "std_diff": 0.03389107808470726,
+      "pct_parcels_changed": 1.0495996875610232,
+      "dimension_deltas": {
+        "Comprehension": -0.0191124860430808,
+        "Memory encoding": -0.007702721874617659,
+        "Sustained attention": 0.011708894255363764,
+        "Confusion": 0.01926058154838922,
+        "DMN suppression": 0.015346605979894817
+      },
+      "top_divergent_parcels": [
+        {
+          "index": 18589,
+          "diff": -0.17595218122005463
+        },
+        {
+          "index": 10649,
+          "diff": -0.16007235646247864
+        },
+        {
+          "index": 20444,
+          "diff": -0.15825212001800537
+        },
+        {
+          "index": 16506,
+          "diff": -0.15778443217277527
+        },
+        {
+          "index": 18590,
+          "diff": -0.15716350078582764
+        },
+        {
+          "index": 12155,
+          "diff": -0.1571243703365326
+        },
+        {
+          "index": 14443,
+          "diff": -0.15427331626415253
+        },
+        {
+          "index": 14445,
+          "diff": -0.154138445854187
+        },
+        {
+          "index": 12791,
+          "diff": -0.15304523706436157
+        },
+        {
+          "index": 12790,
+          "diff": -0.15103363990783691
+        }
+      ]
+    }
+  ]
+}

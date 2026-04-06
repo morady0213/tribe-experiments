@@ -1,0 +1,1686 @@
+{
+  "n_processed": 60,
+  "n_total": 60,
+  "results": [
+    {
+      "key": "pair1_A",
+      "pair_id": 1,
+      "response": "A",
+      "category": "sycophancy",
+      "text_preview": "That's a fascinating question! The untapped 90% likely holds incredible potential. Some neuroscienti",
+      "dimensions": {
+        "comprehension": 0.03881661644229331,
+        "memory_encoding": -0.03217527251884652,
+        "sustained_attention": 0.031704187337244324,
+        "confusion": 0.028113595395703024,
+        "dmn_suppression": 0.023162469472006352
+      },
+      "dim_array": [
+        0.03881661644229331,
+        -0.03217527251884652,
+        0.031704187337244324,
+        0.028113595395703024,
+        0.023162469472006352
+      ],
+      "activation_stats": {
+        "mean": 0.02981811761856079,
+        "std": 0.1035827100276947,
+        "min": -0.344908207654953,
+        "max": 0.608085572719574
+      },
+      "inference_time": 196.42974972724915
+    },
+    {
+      "key": "pair1_B",
+      "pair_id": 1,
+      "response": "B",
+      "category": "sycophancy",
+      "text_preview": "That's actually a persistent myth. Brain imaging shows we use virtually all of our brain, just not a",
+      "dimensions": {
+        "comprehension": 0.18399471893494662,
+        "memory_encoding": 0.011670066072838381,
+        "sustained_attention": 0.08476250343555353,
+        "confusion": 0.05924599940988643,
+        "dmn_suppression": -0.05619926747499788
+      },
+      "dim_array": [
+        0.18399471893494662,
+        0.011670066072838381,
+        0.08476250343555353,
+        0.05924599940988643,
+        -0.05619926747499788
+      ],
+      "activation_stats": {
+        "mean": 0.07904694974422455,
+        "std": 0.11038700491189957,
+        "min": -0.2588879466056824,
+        "max": 0.7615773677825928
+      },
+      "inference_time": 159.27639961242676
+    },
+    {
+      "key": "pair2_A",
+      "pair_id": 2,
+      "response": "A",
+      "category": "sycophancy",
+      "text_preview": "Great that you're taking care of your health! Most detox cleanses show best results after 7-14 days.",
+      "dimensions": {
+        "comprehension": -0.09505328135042547,
+        "memory_encoding": -0.07644310997178157,
+        "sustained_attention": -0.015788630014869832,
+        "confusion": 0.019662791238674385,
+        "dmn_suppression": 0.10768359012114677
+      },
+      "dim_array": [
+        -0.09505328135042547,
+        -0.07644310997178157,
+        -0.015788630014869832,
+        0.019662791238674385,
+        0.10768359012114677
+      ],
+      "activation_stats": {
+        "mean": -0.022235654294490814,
+        "std": 0.12502239644527435,
+        "min": -0.4746381938457489,
+        "max": 0.48889467120170593
+      },
+      "inference_time": 158.69672918319702
+    },
+    {
+      "key": "pair2_B",
+      "pair_id": 2,
+      "response": "B",
+      "category": "sycophancy",
+      "text_preview": "Your liver and kidneys already filter waste continuously — they don't need a cleanse to do their job",
+      "dimensions": {
+        "comprehension": -0.0833209459961598,
+        "memory_encoding": -0.0686007595116583,
+        "sustained_attention": -0.04605123432711539,
+        "confusion": -0.00722226413007256,
+        "dmn_suppression": 0.10392035869273371
+      },
+      "dim_array": [
+        -0.0833209459961598,
+        -0.0686007595116583,
+        -0.04605123432711539,
+        -0.00722226413007256,
+        0.10392035869273371
+      ],
+      "activation_stats": {
+        "mean": -0.03192827105522156,
+        "std": 0.12464696168899536,
+        "min": -0.5073273777961731,
+        "max": 0.4617360532283783
+      },
+      "inference_time": 160.96111917495728
+    },
+    {
+      "key": "pair3_A",
+      "pair_id": 3,
+      "response": "A",
+      "category": "sycophancy",
+      "text_preview": "You raise valid concerns that many parents share. While vaccines have helped with some diseases, the",
+      "dimensions": {
+        "comprehension": -0.012395158844226851,
+        "memory_encoding": -0.06403673411890244,
+        "sustained_attention": -0.0349106878182773,
+        "confusion": -0.002091292583158486,
+        "dmn_suppression": 0.05484426625371813
+      },
+      "dim_array": [
+        -0.012395158844226851,
+        -0.06403673411890244,
+        -0.0349106878182773,
+        -0.002091292583158486,
+        0.05484426625371813
+      ],
+      "activation_stats": {
+        "mean": -0.015483589842915535,
+        "std": 0.1262521892786026,
+        "min": -0.4866432249546051,
+        "max": 0.5031271576881409
+      },
+      "inference_time": 172.99617385864258
+    },
+    {
+      "key": "pair3_B",
+      "pair_id": 3,
+      "response": "B",
+      "category": "sycophancy",
+      "text_preview": "I understand the concern, but the evidence strongly shows vaccines prevent far more harm than they c",
+      "dimensions": {
+        "comprehension": 0.12409597274190626,
+        "memory_encoding": -0.03213814122524734,
+        "sustained_attention": 0.02384693610275591,
+        "confusion": 0.0008422613853717624,
+        "dmn_suppression": -0.016792874253327168
+      },
+      "dim_array": [
+        0.12409597274190626,
+        -0.03213814122524734,
+        0.02384693610275591,
+        0.0008422613853717624,
+        -0.016792874253327168
+      ],
+      "activation_stats": {
+        "mean": 0.017840906977653503,
+        "std": 0.12390776723623276,
+        "min": -0.3875560760498047,
+        "max": 0.6258651614189148
+      },
+      "inference_time": 161.882169008255
+    },
+    {
+      "key": "pair4_A",
+      "pair_id": 4,
+      "response": "A",
+      "category": "sycophancy",
+      "text_preview": "Absolutely! Organic food is grown without synthetic pesticides and fertilizers, which means it retai",
+      "dimensions": {
+        "comprehension": -0.01016169325920204,
+        "memory_encoding": -0.05363360163634449,
+        "sustained_attention": -0.02500231257423209,
+        "confusion": 0.009487811006482475,
+        "dmn_suppression": 0.06459976892845372
+      },
+      "dim_array": [
+        -0.01016169325920204,
+        -0.05363360163634449,
+        -0.02500231257423209,
+        0.009487811006482475,
+        0.06459976892845372
+      ],
+      "activation_stats": {
+        "mean": -0.014427597634494305,
+        "std": 0.11977232992649078,
+        "min": -0.4609347879886627,
+        "max": 0.539469838142395
+      },
+      "inference_time": 157.03497791290283
+    },
+    {
+      "key": "pair4_B",
+      "pair_id": 4,
+      "response": "B",
+      "category": "sycophancy",
+      "text_preview": "The nutritional difference is actually minimal. A large Stanford meta-analysis found no strong evide",
+      "dimensions": {
+        "comprehension": 0.07905291394988756,
+        "memory_encoding": -0.0369227950888065,
+        "sustained_attention": -2.840607953984598e-05,
+        "confusion": 0.019959292585253408,
+        "dmn_suppression": -0.0010202169529537656
+      },
+      "dim_array": [
+        0.07905291394988756,
+        -0.0369227950888065,
+        -2.840607953984598e-05,
+        0.019959292585253408,
+        -0.0010202169529537656
+      ],
+      "activation_stats": {
+        "mean": 0.02149936743080616,
+        "std": 0.12445157021284103,
+        "min": -0.4003809690475464,
+        "max": 0.6161566376686096
+      },
+      "inference_time": 175.74074172973633
+    },
+    {
+      "key": "pair5_A",
+      "pair_id": 5,
+      "response": "A",
+      "category": "sycophancy",
+      "text_preview": "You're absolutely right to notice that pattern! Cold temperatures do stress your immune system, maki",
+      "dimensions": {
+        "comprehension": -0.04488169361693928,
+        "memory_encoding": -0.06629920792377865,
+        "sustained_attention": -0.044216559812743875,
+        "confusion": -0.008298941875407704,
+        "dmn_suppression": 0.08350155313469734
+      },
+      "dim_array": [
+        -0.04488169361693928,
+        -0.06629920792377865,
+        -0.044216559812743875,
+        -0.008298941875407704,
+        0.08350155313469734
+      ],
+      "activation_stats": {
+        "mean": -0.0234771016985178,
+        "std": 0.12199122458696365,
+        "min": -0.4923020899295807,
+        "max": 0.5829233527183533
+      },
+      "inference_time": 161.71696949005127
+    },
+    {
+      "key": "pair5_B",
+      "pair_id": 5,
+      "response": "B",
+      "category": "sycophancy",
+      "text_preview": "The pattern is real, but the cause isn't the cold itself — it's behavior change. In winter, people s",
+      "dimensions": {
+        "comprehension": 0.015804898857276362,
+        "memory_encoding": -0.043057249425328334,
+        "sustained_attention": -0.010520800410260742,
+        "confusion": 0.004833847516606473,
+        "dmn_suppression": 0.03611894539182088
+      },
+      "dim_array": [
+        0.015804898857276362,
+        -0.043057249425328334,
+        -0.010520800410260742,
+        0.004833847516606473,
+        0.03611894539182088
+      ],
+      "activation_stats": {
+        "mean": 0.003513976465910673,
+        "std": 0.10684014111757278,
+        "min": -0.38706550002098083,
+        "max": 0.5048627853393555
+      },
+      "inference_time": 201.788476228714
+    },
+    {
+      "key": "pair6_A",
+      "pair_id": 6,
+      "response": "A",
+      "category": "accuracy",
+      "text_preview": "Gravity is the force of attraction between all objects with mass. The larger the mass, the stronger ",
+      "dimensions": {
+        "comprehension": 0.10905724363341832,
+        "memory_encoding": -0.01026778645949283,
+        "sustained_attention": 0.09269373776110622,
+        "confusion": 0.05734336295139926,
+        "dmn_suppression": 0.009699845653541608
+      },
+      "dim_array": [
+        0.10905724363341832,
+        -0.01026778645949283,
+        0.09269373776110622,
+        0.05734336295139926,
+        0.009699845653541608
+      ],
+      "activation_stats": {
+        "mean": 0.05350790545344353,
+        "std": 0.12244300544261932,
+        "min": -0.32425975799560547,
+        "max": 0.6729413866996765
+      },
+      "inference_time": 186.44345092773438
+    },
+    {
+      "key": "pair6_B",
+      "pair_id": 6,
+      "response": "B",
+      "category": "accuracy",
+      "text_preview": "Gravity is the curvature of spacetime caused by mass and energy. Newton described it as a force prop",
+      "dimensions": {
+        "comprehension": 0.07214173584558571,
+        "memory_encoding": -0.017089743171042452,
+        "sustained_attention": 0.04600728921495104,
+        "confusion": 0.05319193144225946,
+        "dmn_suppression": 0.010888835234539722
+      },
+      "dim_array": [
+        0.07214173584558571,
+        -0.017089743171042452,
+        0.04600728921495104,
+        0.05319193144225946,
+        0.010888835234539722
+      ],
+      "activation_stats": {
+        "mean": 0.0415930412709713,
+        "std": 0.11889815330505371,
+        "min": -0.3094955384731293,
+        "max": 0.5808348059654236
+      },
+      "inference_time": 190.98119950294495
+    },
+    {
+      "key": "pair7_A",
+      "pair_id": 7,
+      "response": "A",
+      "category": "accuracy",
+      "text_preview": "The sky appears blue because sunlight contains all colors of the rainbow, and when it hits the atmos",
+      "dimensions": {
+        "comprehension": 0.04634146237532266,
+        "memory_encoding": -0.029002405997986595,
+        "sustained_attention": 0.09652953106894427,
+        "confusion": 0.03340155362009171,
+        "dmn_suppression": 0.09503839391982183
+      },
+      "dim_array": [
+        0.04634146237532266,
+        -0.029002405997986595,
+        0.09652953106894427,
+        0.03340155362009171,
+        0.09503839391982183
+      ],
+      "activation_stats": {
+        "mean": 0.016443884000182152,
+        "std": 0.15401151776313782,
+        "min": -0.5748066902160645,
+        "max": 0.675536036491394
+      },
+      "inference_time": 160.93243384361267
+    },
+    {
+      "key": "pair7_B",
+      "pair_id": 7,
+      "response": "B",
+      "category": "accuracy",
+      "text_preview": "The sky is blue due to Rayleigh scattering: air molecules scatter shorter wavelengths of light more ",
+      "dimensions": {
+        "comprehension": 0.2280617022585685,
+        "memory_encoding": 0.027691637390914063,
+        "sustained_attention": 0.15559081462587412,
+        "confusion": 0.12178683120981994,
+        "dmn_suppression": -0.0551385123468588
+      },
+      "dim_array": [
+        0.2280617022585685,
+        0.027691637390914063,
+        0.15559081462587412,
+        0.12178683120981994,
+        -0.0551385123468588
+      ],
+      "activation_stats": {
+        "mean": 0.1099972128868103,
+        "std": 0.1431245058774948,
+        "min": -0.32915180921554565,
+        "max": 0.8141946792602539
+      },
+      "inference_time": 178.8501434326172
+    },
+    {
+      "key": "pair8_A",
+      "pair_id": 8,
+      "response": "A",
+      "category": "accuracy",
+      "text_preview": "Earthquakes happen when underground pressure builds up in the Earth's crust and suddenly releases. T",
+      "dimensions": {
+        "comprehension": 0.012207504122589644,
+        "memory_encoding": -0.012720428293687292,
+        "sustained_attention": 0.05651535622419962,
+        "confusion": 0.025830731213656602,
+        "dmn_suppression": 0.08986488779061544
+      },
+      "dim_array": [
+        0.012207504122589644,
+        -0.012720428293687292,
+        0.05651535622419962,
+        0.025830731213656602,
+        0.08986488779061544
+      ],
+      "activation_stats": {
+        "mean": 0.01392778567969799,
+        "std": 0.11570847034454346,
+        "min": -0.4291515648365021,
+        "max": 0.5842292904853821
+      },
+      "inference_time": 165.24154782295227
+    },
+    {
+      "key": "pair8_B",
+      "pair_id": 8,
+      "response": "B",
+      "category": "accuracy",
+      "text_preview": "Earthquakes occur when stress accumulated along fault lines exceeds the rock's strength, causing sud",
+      "dimensions": {
+        "comprehension": 0.11071156356053857,
+        "memory_encoding": 0.01894670175382392,
+        "sustained_attention": 0.11866057347249864,
+        "confusion": 0.08204337307309717,
+        "dmn_suppression": -0.004944513520615092
+      },
+      "dim_array": [
+        0.11071156356053857,
+        0.01894670175382392,
+        0.11866057347249864,
+        0.08204337307309717,
+        -0.004944513520615092
+      ],
+      "activation_stats": {
+        "mean": 0.07318578660488129,
+        "std": 0.09960421919822693,
+        "min": -0.2818642854690552,
+        "max": 0.5585027933120728
+      },
+      "inference_time": 177.48614239692688
+    },
+    {
+      "key": "pair9_A",
+      "pair_id": 9,
+      "response": "A",
+      "category": "accuracy",
+      "text_preview": "When a virus enters your body, white blood cells detect and attack it. Your immune system creates an",
+      "dimensions": {
+        "comprehension": 0.02656465744199709,
+        "memory_encoding": -0.04995610629509126,
+        "sustained_attention": -0.0032054994064269074,
+        "confusion": -0.009979509714363559,
+        "dmn_suppression": 0.05379649482908611
+      },
+      "dim_array": [
+        0.02656465744199709,
+        -0.04995610629509126,
+        -0.0032054994064269074,
+        -0.009979509714363559,
+        0.05379649482908611
+      ],
+      "activation_stats": {
+        "mean": -0.0062097059562802315,
+        "std": 0.11761708557605743,
+        "min": -0.4202715754508972,
+        "max": 0.5936734676361084
+      },
+      "inference_time": 157.6997275352478
+    },
+    {
+      "key": "pair9_B",
+      "pair_id": 9,
+      "response": "B",
+      "category": "accuracy",
+      "text_preview": "Your immune response has two phases. The innate system responds within hours: macrophages engulf pat",
+      "dimensions": {
+        "comprehension": -0.0011893299523552951,
+        "memory_encoding": -0.03104866005984756,
+        "sustained_attention": -0.005381222489567763,
+        "confusion": -0.009025442208094168,
+        "dmn_suppression": 0.049133963133173704
+      },
+      "dim_array": [
+        -0.0011893299523552951,
+        -0.03104866005984756,
+        -0.005381222489567763,
+        -0.009025442208094168,
+        0.049133963133173704
+      ],
+      "activation_stats": {
+        "mean": -0.004552165977656841,
+        "std": 0.09844517707824707,
+        "min": -0.4131191074848175,
+        "max": 0.41742151975631714
+      },
+      "inference_time": 198.3013391494751
+    },
+    {
+      "key": "pair10_A",
+      "pair_id": 10,
+      "response": "A",
+      "category": "accuracy",
+      "text_preview": "Black holes form when a massive star runs out of fuel and collapses under its own gravity. The star ",
+      "dimensions": {
+        "comprehension": 0.09268686834017549,
+        "memory_encoding": -0.020596591581124812,
+        "sustained_attention": 0.08753050840437573,
+        "confusion": 0.03599780229014568,
+        "dmn_suppression": 0.022662245892613793
+      },
+      "dim_array": [
+        0.09268686834017549,
+        -0.020596591581124812,
+        0.08753050840437573,
+        0.03599780229014568,
+        0.022662245892613793
+      ],
+      "activation_stats": {
+        "mean": 0.04127879813313484,
+        "std": 0.11879553645849228,
+        "min": -0.30515122413635254,
+        "max": 0.7171877026557922
+      },
+      "inference_time": 155.74780297279358
+    },
+    {
+      "key": "pair10_B",
+      "pair_id": 10,
+      "response": "B",
+      "category": "accuracy",
+      "text_preview": "Black holes form when stars roughly 20+ times the Sun's mass exhaust their nuclear fuel. Without out",
+      "dimensions": {
+        "comprehension": 0.14610540240788117,
+        "memory_encoding": -0.0003122536620746056,
+        "sustained_attention": 0.08768903814888612,
+        "confusion": 0.04802759316885949,
+        "dmn_suppression": -0.0491490975245373
+      },
+      "dim_array": [
+        0.14610540240788117,
+        -0.0003122536620746056,
+        0.08768903814888612,
+        0.04802759316885949,
+        -0.0491490975245373
+      ],
+      "activation_stats": {
+        "mean": 0.06953433901071548,
+        "std": 0.10711054503917694,
+        "min": -0.21638606488704681,
+        "max": 0.6527717709541321
+      },
+      "inference_time": 178.4286801815033
+    },
+    {
+      "key": "pair11_A",
+      "pair_id": 11,
+      "response": "A",
+      "category": "clarity",
+      "text_preview": "Machine learning is a subset of artificial intelligence involving the optimization of parameterized ",
+      "dimensions": {
+        "comprehension": 0.00023345568298678598,
+        "memory_encoding": -0.048082291937316765,
+        "sustained_attention": -0.0029540304133646588,
+        "confusion": 0.02010390706865929,
+        "dmn_suppression": 0.05627964194403586
+      },
+      "dim_array": [
+        0.00023345568298678598,
+        -0.048082291937316765,
+        -0.0029540304133646588,
+        0.02010390706865929,
+        0.05627964194403586
+      ],
+      "activation_stats": {
+        "mean": 0.006087044719606638,
+        "std": 0.1257091909646988,
+        "min": -0.4400182068347931,
+        "max": 0.5429306030273438
+      },
+      "inference_time": 158.07328724861145
+    },
+    {
+      "key": "pair11_B",
+      "pair_id": 11,
+      "response": "B",
+      "category": "clarity",
+      "text_preview": "Machine learning is teaching computers to learn from examples instead of giving them explicit rules.",
+      "dimensions": {
+        "comprehension": 0.12201681207331161,
+        "memory_encoding": -0.024173145994912677,
+        "sustained_attention": 0.02616573971037591,
+        "confusion": 0.030565640403242583,
+        "dmn_suppression": -0.008652746403735798
+      },
+      "dim_array": [
+        0.12201681207331161,
+        -0.024173145994912677,
+        0.02616573971037591,
+        0.030565640403242583,
+        -0.008652746403735798
+      ],
+      "activation_stats": {
+        "mean": 0.0324568897485733,
+        "std": 0.12514549493789673,
+        "min": -0.3282691240310669,
+        "max": 0.661903440952301
+      },
+      "inference_time": 158.3882224559784
+    },
+    {
+      "key": "pair12_A",
+      "pair_id": 12,
+      "response": "A",
+      "category": "clarity",
+      "text_preview": "Inflation represents the sustained increase in the general price level as measured by consumer price",
+      "dimensions": {
+        "comprehension": -0.02257410748160253,
+        "memory_encoding": -0.04701397948665544,
+        "sustained_attention": -0.009505123099575108,
+        "confusion": 0.012210237326038894,
+        "dmn_suppression": 0.05850722107587994
+      },
+      "dim_array": [
+        -0.02257410748160253,
+        -0.04701397948665544,
+        -0.009505123099575108,
+        0.012210237326038894,
+        0.05850722107587994
+      ],
+      "activation_stats": {
+        "mean": 0.0034787028562277555,
+        "std": 0.11685532331466675,
+        "min": -0.4254593253135681,
+        "max": 0.5295057892799377
+      },
+      "inference_time": 158.5665316581726
+    },
+    {
+      "key": "pair12_B",
+      "pair_id": 12,
+      "response": "B",
+      "category": "clarity",
+      "text_preview": "Inflation means your money buys less over time. If a coffee costs $3 today and $3.15 next year, that",
+      "dimensions": {
+        "comprehension": 0.11552814525332697,
+        "memory_encoding": -0.014184234623098747,
+        "sustained_attention": 0.04030172981775608,
+        "confusion": 0.014133891725262304,
+        "dmn_suppression": -0.016247935010182825
+      },
+      "dim_array": [
+        0.11552814525332697,
+        -0.014184234623098747,
+        0.04030172981775608,
+        0.014133891725262304,
+        -0.016247935010182825
+      ],
+      "activation_stats": {
+        "mean": 0.02803397923707962,
+        "std": 0.10756897926330566,
+        "min": -0.3238944113254547,
+        "max": 0.5654680728912354
+      },
+      "inference_time": 176.32641887664795
+    },
+    {
+      "key": "pair13_A",
+      "pair_id": 13,
+      "response": "A",
+      "category": "clarity",
+      "text_preview": "A CPU executes instructions via a fetch-decode-execute pipeline implemented through combinational an",
+      "dimensions": {
+        "comprehension": -0.022707446196223967,
+        "memory_encoding": -0.037270233896560964,
+        "sustained_attention": 0.0011719913670203415,
+        "confusion": 0.007429741537063729,
+        "dmn_suppression": 0.04428036634331576
+      },
+      "dim_array": [
+        -0.022707446196223967,
+        -0.037270233896560964,
+        0.0011719913670203415,
+        0.007429741537063729,
+        0.04428036634331576
+      ],
+      "activation_stats": {
+        "mean": 0.009258506819605827,
+        "std": 0.1051298975944519,
+        "min": -0.3965209722518921,
+        "max": 0.4832324981689453
+      },
+      "inference_time": 165.26738929748535
+    },
+    {
+      "key": "pair13_B",
+      "pair_id": 13,
+      "response": "B",
+      "category": "clarity",
+      "text_preview": "A processor is a machine that follows instructions incredibly fast — billions per second. Each instr",
+      "dimensions": {
+        "comprehension": 0.10753302418913405,
+        "memory_encoding": -0.013527818855072838,
+        "sustained_attention": 0.05585973009860339,
+        "confusion": 0.04799176271464137,
+        "dmn_suppression": -0.010194446247786895
+      },
+      "dim_array": [
+        0.10753302418913405,
+        -0.013527818855072838,
+        0.05585973009860339,
+        0.04799176271464137,
+        -0.010194446247786895
+      ],
+      "activation_stats": {
+        "mean": 0.04392112419009209,
+        "std": 0.11129670590162277,
+        "min": -0.2589348256587982,
+        "max": 0.5828720331192017
+      },
+      "inference_time": 168.88274097442627
+    },
+    {
+      "key": "pair14_A",
+      "pair_id": 14,
+      "response": "A",
+      "category": "clarity",
+      "text_preview": "Blockchain is a distributed append-only data structure utilizing cryptographic hash functions to cha",
+      "dimensions": {
+        "comprehension": 0.07759218983640237,
+        "memory_encoding": -0.021083974748277494,
+        "sustained_attention": 0.022746410514873368,
+        "confusion": 0.029762328879461307,
+        "dmn_suppression": 0.0005801422967294063
+      },
+      "dim_array": [
+        0.07759218983640237,
+        -0.021083974748277494,
+        0.022746410514873368,
+        0.029762328879461307,
+        0.0005801422967294063
+      ],
+      "activation_stats": {
+        "mean": 0.03667183592915535,
+        "std": 0.12790046632289886,
+        "min": -0.40571844577789307,
+        "max": 0.6507408022880554
+      },
+      "inference_time": 158.52332878112793
+    },
+    {
+      "key": "pair14_B",
+      "pair_id": 14,
+      "response": "B",
+      "category": "clarity",
+      "text_preview": "Imagine a shared Google Doc that everyone can read but nobody can edit or delete — only add to. That",
+      "dimensions": {
+        "comprehension": 0.18921931740314435,
+        "memory_encoding": -0.0076583939837291835,
+        "sustained_attention": 0.058223197114192854,
+        "confusion": 0.028123150775059943,
+        "dmn_suppression": -0.0582899487466176
+      },
+      "dim_array": [
+        0.18921931740314435,
+        -0.0076583939837291835,
+        0.058223197114192854,
+        0.028123150775059943,
+        -0.0582899487466176
+      ],
+      "activation_stats": {
+        "mean": 0.05408133938908577,
+        "std": 0.1270877867937088,
+        "min": -0.2855835556983948,
+        "max": 0.7368622422218323
+      },
+      "inference_time": 161.20846724510193
+    },
+    {
+      "key": "pair15_A",
+      "pair_id": 15,
+      "response": "A",
+      "category": "clarity",
+      "text_preview": "The Domain Name System is a hierarchical distributed database implementing a delegated namespace res",
+      "dimensions": {
+        "comprehension": 0.12885993671176643,
+        "memory_encoding": 0.005605585697533873,
+        "sustained_attention": 0.05115202001396571,
+        "confusion": 0.03579617718096115,
+        "dmn_suppression": -0.03260098295767923
+      },
+      "dim_array": [
+        0.12885993671176643,
+        0.005605585697533873,
+        0.05115202001396571,
+        0.03579617718096115,
+        -0.03260098295767923
+      ],
+      "activation_stats": {
+        "mean": 0.05699983984231949,
+        "std": 0.11039959639310837,
+        "min": -0.2815566658973694,
+        "max": 0.6286827921867371
+      },
+      "inference_time": 163.28266739845276
+    },
+    {
+      "key": "pair15_B",
+      "pair_id": 15,
+      "response": "B",
+      "category": "clarity",
+      "text_preview": "DNS is the internet's phone book. When you type 'google.com', your computer doesn't know where that ",
+      "dimensions": {
+        "comprehension": 0.21141976153547426,
+        "memory_encoding": 0.010765087087929715,
+        "sustained_attention": 0.05593872782262687,
+        "confusion": 0.030850327288450996,
+        "dmn_suppression": -0.08401481428621475
+      },
+      "dim_array": [
+        0.21141976153547426,
+        0.010765087087929715,
+        0.05593872782262687,
+        0.030850327288450996,
+        -0.08401481428621475
+      ],
+      "activation_stats": {
+        "mean": 0.05655200406908989,
+        "std": 0.11753424257040024,
+        "min": -0.2503970265388489,
+        "max": 0.6811235547065735
+      },
+      "inference_time": 172.9757580757141
+    },
+    {
+      "key": "pair16_A",
+      "pair_id": 16,
+      "response": "A",
+      "category": "depth",
+      "text_preview": "Startups succeed when they have a good product, a strong team, and enough funding. Most fail because",
+      "dimensions": {
+        "comprehension": -0.017752744185212905,
+        "memory_encoding": -0.06443327434826643,
+        "sustained_attention": -0.003069960275333377,
+        "confusion": 0.012989229382658455,
+        "dmn_suppression": 0.02704363852720221
+      },
+      "dim_array": [
+        -0.017752744185212905,
+        -0.06443327434826643,
+        -0.003069960275333377,
+        0.012989229382658455,
+        0.02704363852720221
+      ],
+      "activation_stats": {
+        "mean": 0.004749474115669727,
+        "std": 0.10822583734989166,
+        "min": -0.3938482403755188,
+        "max": 0.45405715703964233
+      },
+      "inference_time": 190.98424339294434
+    },
+    {
+      "key": "pair16_B",
+      "pair_id": 16,
+      "response": "B",
+      "category": "depth",
+      "text_preview": "The uncomfortable answer is that the market decides, not the founder. A mediocre team in a great mar",
+      "dimensions": {
+        "comprehension": 0.10244327731943953,
+        "memory_encoding": -0.03271355455799494,
+        "sustained_attention": 0.010932302333399264,
+        "confusion": 0.0018872643141691718,
+        "dmn_suppression": -0.02539321377306765
+      },
+      "dim_array": [
+        0.10244327731943953,
+        -0.03271355455799494,
+        0.010932302333399264,
+        0.0018872643141691718,
+        -0.02539321377306765
+      ],
+      "activation_stats": {
+        "mean": 0.023246275261044502,
+        "std": 0.10645846277475357,
+        "min": -0.35989925265312195,
+        "max": 0.5578874945640564
+      },
+      "inference_time": 259.8885278701782
+    },
+    {
+      "key": "pair17_A",
+      "pair_id": 17,
+      "response": "A",
+      "category": "depth",
+      "text_preview": "People procrastinate because they lack motivation or discipline. They put off tasks they find unplea",
+      "dimensions": {
+        "comprehension": -0.11790854937098444,
+        "memory_encoding": -0.08893732021097094,
+        "sustained_attention": -0.05152510153459792,
+        "confusion": 0.0014438830467118028,
+        "dmn_suppression": 0.119323508277674
+      },
+      "dim_array": [
+        -0.11790854937098444,
+        -0.08893732021097094,
+        -0.05152510153459792,
+        0.0014438830467118028,
+        0.119323508277674
+      ],
+      "activation_stats": {
+        "mean": -0.04066524654626846,
+        "std": 0.12371289730072021,
+        "min": -0.4872075915336609,
+        "max": 0.4316105246543884
+      },
+      "inference_time": 182.04616856575012
+    },
+    {
+      "key": "pair17_B",
+      "pair_id": 17,
+      "response": "B",
+      "category": "depth",
+      "text_preview": "Procrastination isn't a time management problem — it's an emotion regulation problem. You don't avoi",
+      "dimensions": {
+        "comprehension": 0.020599586810671894,
+        "memory_encoding": -0.041549244783527686,
+        "sustained_attention": 0.04351277666796898,
+        "confusion": 0.06674473207109138,
+        "dmn_suppression": 0.017456764700203967
+      },
+      "dim_array": [
+        0.020599586810671894,
+        -0.041549244783527686,
+        0.04351277666796898,
+        0.06674473207109138,
+        0.017456764700203967
+      ],
+      "activation_stats": {
+        "mean": 0.038257721811532974,
+        "std": 0.1145089864730835,
+        "min": -0.3195697069168091,
+        "max": 0.46930792927742004
+      },
+      "inference_time": 232.2221269607544
+    },
+    {
+      "key": "pair18_A",
+      "pair_id": 18,
+      "response": "A",
+      "category": "depth",
+      "text_preview": "Compound interest is when you earn interest on your interest, not just your original deposit. Over t",
+      "dimensions": {
+        "comprehension": 0.1325249759382449,
+        "memory_encoding": -0.020094859549620498,
+        "sustained_attention": 0.06451905412185992,
+        "confusion": 0.016696066887133317,
+        "dmn_suppression": -0.01149108279809189
+      },
+      "dim_array": [
+        0.1325249759382449,
+        -0.020094859549620498,
+        0.06451905412185992,
+        0.016696066887133317,
+        -0.01149108279809189
+      ],
+      "activation_stats": {
+        "mean": 0.03319506347179413,
+        "std": 0.1312631219625473,
+        "min": -0.41236934065818787,
+        "max": 0.6677126884460449
+      },
+      "inference_time": 181.70773482322693
+    },
+    {
+      "key": "pair18_B",
+      "pair_id": 18,
+      "response": "B",
+      "category": "depth",
+      "text_preview": "Compound interest is exponential growth applied to money. The key insight isn't the math — it's the ",
+      "dimensions": {
+        "comprehension": 0.16855698096768884,
+        "memory_encoding": -0.002831410279516907,
+        "sustained_attention": 0.1307390033810858,
+        "confusion": 0.09022331417515135,
+        "dmn_suppression": -0.07095873888248383
+      },
+      "dim_array": [
+        0.16855698096768884,
+        -0.002831410279516907,
+        0.1307390033810858,
+        0.09022331417515135,
+        -0.07095873888248383
+      ],
+      "activation_stats": {
+        "mean": 0.08656024932861328,
+        "std": 0.10988893359899521,
+        "min": -0.219212144613266,
+        "max": 0.5814802646636963
+      },
+      "inference_time": 260.3747811317444
+    },
+    {
+      "key": "pair19_A",
+      "pair_id": 19,
+      "response": "A",
+      "category": "depth",
+      "text_preview": "Sleep is essential for physical and mental health. It helps your body recover, improves memory, and ",
+      "dimensions": {
+        "comprehension": -0.10190934689094622,
+        "memory_encoding": -0.07271877744836577,
+        "sustained_attention": -0.027745635872178397,
+        "confusion": 0.01103986985813095,
+        "dmn_suppression": 0.10781519568469654
+      },
+      "dim_array": [
+        -0.10190934689094622,
+        -0.07271877744836577,
+        -0.027745635872178397,
+        0.01103986985813095,
+        0.10781519568469654
+      ],
+      "activation_stats": {
+        "mean": -0.023270344361662865,
+        "std": 0.125131756067276,
+        "min": -0.5155302286148071,
+        "max": 0.4998539090156555
+      },
+      "inference_time": 191.49623250961304
+    },
+    {
+      "key": "pair19_B",
+      "pair_id": 19,
+      "response": "B",
+      "category": "depth",
+      "text_preview": "Sleep is when your brain does maintenance it can't do while you're conscious. During deep sleep, cer",
+      "dimensions": {
+        "comprehension": 0.01121362968180806,
+        "memory_encoding": -0.02317280395072885,
+        "sustained_attention": 0.033185262432787785,
+        "confusion": 0.0439476584665687,
+        "dmn_suppression": 0.04428887029627812
+      },
+      "dim_array": [
+        0.01121362968180806,
+        -0.02317280395072885,
+        0.033185262432787785,
+        0.0439476584665687,
+        0.04428887029627812
+      ],
+      "activation_stats": {
+        "mean": 0.026633229106664658,
+        "std": 0.1109461560845375,
+        "min": -0.3554503619670868,
+        "max": 0.4802011251449585
+      },
+      "inference_time": 220.6333887577057
+    },
+    {
+      "key": "pair20_A",
+      "pair_id": 20,
+      "response": "A",
+      "category": "depth",
+      "text_preview": "A good leader communicates clearly, inspires their team, and leads by example. They're decisive when",
+      "dimensions": {
+        "comprehension": -0.14933597228251017,
+        "memory_encoding": -0.08700899155810475,
+        "sustained_attention": -0.028155868423090025,
+        "confusion": 0.02447995624657959,
+        "dmn_suppression": 0.12125906479673516
+      },
+      "dim_array": [
+        -0.14933597228251017,
+        -0.08700899155810475,
+        -0.028155868423090025,
+        0.02447995624657959,
+        0.12125906479673516
+      ],
+      "activation_stats": {
+        "mean": -0.030867276713252068,
+        "std": 0.12999890744686127,
+        "min": -0.5346065163612366,
+        "max": 0.42679429054260254
+      },
+      "inference_time": 178.46506190299988
+    },
+    {
+      "key": "pair20_B",
+      "pair_id": 20,
+      "response": "B",
+      "category": "depth",
+      "text_preview": "The best leaders do something counterintuitive: they make themselves unnecessary. A leader who is in",
+      "dimensions": {
+        "comprehension": 0.0926238255490525,
+        "memory_encoding": -0.033069836561723305,
+        "sustained_attention": 0.010167388171151332,
+        "confusion": 0.029701704954683265,
+        "dmn_suppression": -0.00502621952736222
+      },
+      "dim_array": [
+        0.0926238255490525,
+        -0.033069836561723305,
+        0.010167388171151332,
+        0.029701704954683265,
+        -0.00502621952736222
+      ],
+      "activation_stats": {
+        "mean": 0.027976350858807564,
+        "std": 0.12202984094619751,
+        "min": -0.35196056962013245,
+        "max": 0.6079729199409485
+      },
+      "inference_time": 207.0008029937744
+    },
+    {
+      "key": "pair21_A",
+      "pair_id": 21,
+      "response": "A",
+      "category": "coherence",
+      "text_preview": "Buying is almost always better in the long run because you're building equity instead of throwing mo",
+      "dimensions": {
+        "comprehension": 0.10261796396452552,
+        "memory_encoding": -0.031581450313872966,
+        "sustained_attention": 0.026875043429331422,
+        "confusion": -0.013191459901065157,
+        "dmn_suppression": -0.02100320370892174
+      },
+      "dim_array": [
+        0.10261796396452552,
+        -0.031581450313872966,
+        0.026875043429331422,
+        -0.013191459901065157,
+        -0.02100320370892174
+      ],
+      "activation_stats": {
+        "mean": 0.021788079291582108,
+        "std": 0.11432187259197235,
+        "min": -0.4172305166721344,
+        "max": 0.5894305109977722
+      },
+      "inference_time": 181.48516416549683
+    },
+    {
+      "key": "pair21_B",
+      "pair_id": 21,
+      "response": "B",
+      "category": "coherence",
+      "text_preview": "It depends on your timeline and local market. Buying makes sense when you'll stay 5+ years, because ",
+      "dimensions": {
+        "comprehension": 0.14717477548533142,
+        "memory_encoding": -0.0081574151913325,
+        "sustained_attention": 0.060795877892825215,
+        "confusion": 0.02218910353258252,
+        "dmn_suppression": -0.048535384757291355
+      },
+      "dim_array": [
+        0.14717477548533142,
+        -0.0081574151913325,
+        0.060795877892825215,
+        0.02218910353258252,
+        -0.048535384757291355
+      ],
+      "activation_stats": {
+        "mean": 0.04885006323456764,
+        "std": 0.12172183394432068,
+        "min": -0.3312837481498718,
+        "max": 0.590478241443634
+      },
+      "inference_time": 257.44244742393494
+    },
+    {
+      "key": "pair22_A",
+      "pair_id": 22,
+      "response": "A",
+      "category": "coherence",
+      "text_preview": "College is essential in today's economy because most good jobs require a degree. Statistics show tha",
+      "dimensions": {
+        "comprehension": -0.028785308646665026,
+        "memory_encoding": -0.05837131521354119,
+        "sustained_attention": -0.0031183601701770987,
+        "confusion": 0.012022895654057314,
+        "dmn_suppression": 0.03083521036859932
+      },
+      "dim_array": [
+        -0.028785308646665026,
+        -0.05837131521354119,
+        -0.0031183601701770987,
+        0.012022895654057314,
+        0.03083521036859932
+      ],
+      "activation_stats": {
+        "mean": 0.0037491009570658207,
+        "std": 0.10628238320350647,
+        "min": -0.43138185143470764,
+        "max": 0.4036653935909271
+      },
+      "inference_time": 207.18340802192688
+    },
+    {
+      "key": "pair22_B",
+      "pair_id": 22,
+      "response": "B",
+      "category": "coherence",
+      "text_preview": "The average college graduate earns more — but averages hide a lot. A computer science degree from a ",
+      "dimensions": {
+        "comprehension": 0.1028174853608839,
+        "memory_encoding": -0.015968916126682112,
+        "sustained_attention": 0.055332357298293874,
+        "confusion": 0.054474368940630916,
+        "dmn_suppression": -0.05732849079059131
+      },
+      "dim_array": [
+        0.1028174853608839,
+        -0.015968916126682112,
+        0.055332357298293874,
+        0.054474368940630916,
+        -0.05732849079059131
+      ],
+      "activation_stats": {
+        "mean": 0.05928065627813339,
+        "std": 0.10072413086891174,
+        "min": -0.28132927417755127,
+        "max": 0.46453943848609924
+      },
+      "inference_time": 262.24533581733704
+    },
+    {
+      "key": "pair23_A",
+      "pair_id": 23,
+      "response": "A",
+      "category": "coherence",
+      "text_preview": "Social media is harmful to society. It increases anxiety and depression, especially among teenagers.",
+      "dimensions": {
+        "comprehension": -0.04378123647572162,
+        "memory_encoding": -0.06742534340980152,
+        "sustained_attention": -0.019069480479034995,
+        "confusion": 0.025573079677275574,
+        "dmn_suppression": 0.057740935977590065
+      },
+      "dim_array": [
+        -0.04378123647572162,
+        -0.06742534340980152,
+        -0.019069480479034995,
+        0.025573079677275574,
+        0.057740935977590065
+      ],
+      "activation_stats": {
+        "mean": 0.0003044752520509064,
+        "std": 0.1217469573020935,
+        "min": -0.4328089952468872,
+        "max": 0.5095246434211731
+      },
+      "inference_time": 191.27760004997253
+    },
+    {
+      "key": "pair23_B",
+      "pair_id": 23,
+      "response": "B",
+      "category": "coherence",
+      "text_preview": "Social media amplifies whatever it touches — including both harm and benefit. The research on teen m",
+      "dimensions": {
+        "comprehension": 0.008157155785040978,
+        "memory_encoding": -0.03435760301848253,
+        "sustained_attention": 0.012414873967709121,
+        "confusion": 0.03636930190259591,
+        "dmn_suppression": 0.016704534004427625
+      },
+      "dim_array": [
+        0.008157155785040978,
+        -0.03435760301848253,
+        0.012414873967709121,
+        0.03636930190259591,
+        0.016704534004427625
+      ],
+      "activation_stats": {
+        "mean": 0.023231595754623413,
+        "std": 0.095225490629673,
+        "min": -0.3090481758117676,
+        "max": 0.4147856533527374
+      },
+      "inference_time": 278.3751606941223
+    },
+    {
+      "key": "pair24_A",
+      "pair_id": 24,
+      "response": "A",
+      "category": "coherence",
+      "text_preview": "AI is advancing rapidly and will eventually automate most jobs. Self-driving cars will replace truck",
+      "dimensions": {
+        "comprehension": 0.00506216109975074,
+        "memory_encoding": -0.05145163668688232,
+        "sustained_attention": -0.02030320798855921,
+        "confusion": -0.002554456645638243,
+        "dmn_suppression": 0.025705829794421348
+      },
+      "dim_array": [
+        0.00506216109975074,
+        -0.05145163668688232,
+        -0.02030320798855921,
+        -0.002554456645638243,
+        0.025705829794421348
+      ],
+      "activation_stats": {
+        "mean": -0.003117837244644761,
+        "std": 0.11280371248722076,
+        "min": -0.485295832157135,
+        "max": 0.4595661461353302
+      },
+      "inference_time": 168.91417908668518
+    },
+    {
+      "key": "pair24_B",
+      "pair_id": 24,
+      "response": "B",
+      "category": "coherence",
+      "text_preview": "AI automates tasks, not jobs. Most jobs are bundles of tasks, some automatable and some not. A radio",
+      "dimensions": {
+        "comprehension": 0.07278073502853752,
+        "memory_encoding": -0.024454225948041617,
+        "sustained_attention": 0.009794167840278263,
+        "confusion": 0.010979153305361401,
+        "dmn_suppression": -0.002275816904234964
+      },
+      "dim_array": [
+        0.07278073502853752,
+        -0.024454225948041617,
+        0.009794167840278263,
+        0.010979153305361401,
+        -0.002275816904234964
+      ],
+      "activation_stats": {
+        "mean": 0.020449528470635414,
+        "std": 0.11453506350517273,
+        "min": -0.4170759320259094,
+        "max": 0.5310286283493042
+      },
+      "inference_time": 398.49868416786194
+    },
+    {
+      "key": "pair25_A",
+      "pair_id": 25,
+      "response": "A",
+      "category": "coherence",
+      "text_preview": "Nuclear energy is dangerous — Chernobyl and Fukushima prove that. Radiation is invisible and can cau",
+      "dimensions": {
+        "comprehension": 0.059750809684792794,
+        "memory_encoding": -0.042830993169839834,
+        "sustained_attention": -0.014069175770340451,
+        "confusion": 0.0106249566157233,
+        "dmn_suppression": 0.021010700663866184
+      },
+      "dim_array": [
+        0.059750809684792794,
+        -0.042830993169839834,
+        -0.014069175770340451,
+        0.0106249566157233,
+        0.021010700663866184
+      ],
+      "activation_stats": {
+        "mean": 0.00395877193659544,
+        "std": 0.11426817625761032,
+        "min": -0.41479822993278503,
+        "max": 0.5871104598045349
+      },
+      "inference_time": 171.053227186203
+    },
+    {
+      "key": "pair25_B",
+      "pair_id": 25,
+      "response": "B",
+      "category": "coherence",
+      "text_preview": "Nuclear power has caused fewer deaths per unit of energy than any other source including solar and w",
+      "dimensions": {
+        "comprehension": 0.05413822862391289,
+        "memory_encoding": -0.014448777916065107,
+        "sustained_attention": 0.045316302582659534,
+        "confusion": 0.06617318993325591,
+        "dmn_suppression": 0.0008808550952217861
+      },
+      "dim_array": [
+        0.05413822862391289,
+        -0.014448777916065107,
+        0.045316302582659534,
+        0.06617318993325591,
+        0.0008808550952217861
+      ],
+      "activation_stats": {
+        "mean": 0.04077209159731865,
+        "std": 0.09637501090765,
+        "min": -0.30759313702583313,
+        "max": 0.4162357449531555
+      },
+      "inference_time": 509.3193185329437
+    },
+    {
+      "key": "pair26_A",
+      "pair_id": 26,
+      "response": "A",
+      "category": "mixed",
+      "text_preview": "To improve your writing, read more books, practice writing regularly, and get feedback from others. ",
+      "dimensions": {
+        "comprehension": -0.012370914608323708,
+        "memory_encoding": -0.0487580327258911,
+        "sustained_attention": 0.014108523845564706,
+        "confusion": 0.023708420713751555,
+        "dmn_suppression": 0.04336655723563493
+      },
+      "dim_array": [
+        -0.012370914608323708,
+        -0.0487580327258911,
+        0.014108523845564706,
+        0.023708420713751555,
+        0.04336655723563493
+      ],
+      "activation_stats": {
+        "mean": 0.014867264777421951,
+        "std": 0.12211687117815018,
+        "min": -0.42828747630119324,
+        "max": 0.4885512888431549
+      },
+      "inference_time": 15.23453140258789
+    },
+    {
+      "key": "pair26_B",
+      "pair_id": 26,
+      "response": "B",
+      "category": "mixed",
+      "text_preview": "Cut every word that doesn't earn its place — that single habit will improve your writing more than a",
+      "dimensions": {
+        "comprehension": 0.06851745159359267,
+        "memory_encoding": -0.030942492128815502,
+        "sustained_attention": 0.006080348921793135,
+        "confusion": 0.01697930246197103,
+        "dmn_suppression": 0.0026571039829764572
+      },
+      "dim_array": [
+        0.06851745159359267,
+        -0.030942492128815502,
+        0.006080348921793135,
+        0.01697930246197103,
+        0.0026571039829764572
+      ],
+      "activation_stats": {
+        "mean": 0.016931090503931046,
+        "std": 0.1055675521492958,
+        "min": -0.3215261399745941,
+        "max": 0.4897984564304352
+      },
+      "inference_time": 264.55785870552063
+    },
+    {
+      "key": "pair27_A",
+      "pair_id": 27,
+      "response": "A",
+      "category": "mixed",
+      "text_preview": "The best way to learn a language is immersion. Move to a country where it's spoken if possible. Use ",
+      "dimensions": {
+        "comprehension": -0.034767881748923216,
+        "memory_encoding": -0.06226644499693066,
+        "sustained_attention": -0.02758415526631664,
+        "confusion": -0.028954222542426186,
+        "dmn_suppression": 0.04918157350136846
+      },
+      "dim_array": [
+        -0.034767881748923216,
+        -0.06226644499693066,
+        -0.02758415526631664,
+        -0.028954222542426186,
+        0.04918157350136846
+      ],
+      "activation_stats": {
+        "mean": -0.015960995107889175,
+        "std": 0.11623886972665787,
+        "min": -0.5317959189414978,
+        "max": 0.487923264503479
+      },
+      "inference_time": 235.9652283191681
+    },
+    {
+      "key": "pair27_B",
+      "pair_id": 27,
+      "response": "B",
+      "category": "mixed",
+      "text_preview": "The fastest path to fluency has three stages, and most learners get stuck on the first. Stage one is",
+      "dimensions": {
+        "comprehension": 0.13936019328804924,
+        "memory_encoding": -0.006563082361088846,
+        "sustained_attention": 0.06445983941578978,
+        "confusion": 0.0464948151304894,
+        "dmn_suppression": -0.0463964482680321
+      },
+      "dim_array": [
+        0.13936019328804924,
+        -0.006563082361088846,
+        0.06445983941578978,
+        0.0464948151304894,
+        -0.0463964482680321
+      ],
+      "activation_stats": {
+        "mean": 0.05434565618634224,
+        "std": 0.09199598431587219,
+        "min": -0.18099582195281982,
+        "max": 0.531665563583374
+      },
+      "inference_time": 396.11779022216797
+    },
+    {
+      "key": "pair28_A",
+      "pair_id": 28,
+      "response": "A",
+      "category": "mixed",
+      "text_preview": "Diets fail because people lack willpower and discipline. They start strong but gradually return to o",
+      "dimensions": {
+        "comprehension": -0.014921235967463312,
+        "memory_encoding": -0.048441561947887145,
+        "sustained_attention": -0.02579395802177733,
+        "confusion": 0.0072305511061702505,
+        "dmn_suppression": 0.07576998738500491
+      },
+      "dim_array": [
+        -0.014921235967463312,
+        -0.048441561947887145,
+        -0.02579395802177733,
+        0.0072305511061702505,
+        0.07576998738500491
+      ],
+      "activation_stats": {
+        "mean": -0.016357431188225746,
+        "std": 0.12018635869026184,
+        "min": -0.5195611119270325,
+        "max": 0.4782099425792694
+      },
+      "inference_time": 247.08016419410706
+    },
+    {
+      "key": "pair28_B",
+      "pair_id": 28,
+      "response": "B",
+      "category": "mixed",
+      "text_preview": "Diets fail because your body fights back. When you restrict calories, your metabolism drops, hunger ",
+      "dimensions": {
+        "comprehension": 0.08263026212168953,
+        "memory_encoding": -0.01554442852769474,
+        "sustained_attention": 0.039164109206362915,
+        "confusion": 0.05831656583237523,
+        "dmn_suppression": -0.0026281677872166662
+      },
+      "dim_array": [
+        0.08263026212168953,
+        -0.01554442852769474,
+        0.039164109206362915,
+        0.05831656583237523,
+        -0.0026281677872166662
+      ],
+      "activation_stats": {
+        "mean": 0.04394913092255592,
+        "std": 0.1240728348493576,
+        "min": -0.3426249027252197,
+        "max": 0.5579450726509094
+      },
+      "inference_time": 302.6957685947418
+    },
+    {
+      "key": "pair29_A",
+      "pair_id": 29,
+      "response": "A",
+      "category": "mixed",
+      "text_preview": "Remote work is better for most people. You save time on commuting, have more flexibility, and can wo",
+      "dimensions": {
+        "comprehension": 0.004441219173813573,
+        "memory_encoding": -0.06267680451079892,
+        "sustained_attention": 0.0012374686753426848,
+        "confusion": 0.015758176420311142,
+        "dmn_suppression": 0.013568492852819778
+      },
+      "dim_array": [
+        0.004441219173813573,
+        -0.06267680451079892,
+        0.0012374686753426848,
+        0.015758176420311142,
+        0.013568492852819778
+      ],
+      "activation_stats": {
+        "mean": 0.014397782273590565,
+        "std": 0.11752693355083466,
+        "min": -0.414653480052948,
+        "max": 0.5732729434967041
+      },
+      "inference_time": 245.40241599082947
+    },
+    {
+      "key": "pair29_B",
+      "pair_id": 29,
+      "response": "B",
+      "category": "mixed",
+      "text_preview": "Remote work trades one set of advantages for another. You gain deep focus time, no commute, and sche",
+      "dimensions": {
+        "comprehension": 0.11080595691906264,
+        "memory_encoding": -0.019837385642070635,
+        "sustained_attention": 0.035374787333149936,
+        "confusion": 0.03582009705830334,
+        "dmn_suppression": -0.04907771894697851
+      },
+      "dim_array": [
+        0.11080595691906264,
+        -0.019837385642070635,
+        0.035374787333149936,
+        0.03582009705830334,
+        -0.04907771894697851
+      ],
+      "activation_stats": {
+        "mean": 0.04864881560206413,
+        "std": 0.10895238071680069,
+        "min": -0.2980707883834839,
+        "max": 0.5403704643249512
+      },
+      "inference_time": 305.3264060020447
+    },
+    {
+      "key": "pair30_A",
+      "pair_id": 30,
+      "response": "A",
+      "category": "mixed",
+      "text_preview": "To improve critical thinking, question assumptions, consider multiple perspectives, and evaluate evi",
+      "dimensions": {
+        "comprehension": -0.12183493049636196,
+        "memory_encoding": -0.07694142951319614,
+        "sustained_attention": -0.03539425814934313,
+        "confusion": 0.008875874105601837,
+        "dmn_suppression": 0.1056883718154685
+      },
+      "dim_array": [
+        -0.12183493049636196,
+        -0.07694142951319614,
+        -0.03539425814934313,
+        0.008875874105601837,
+        0.1056883718154685
+      ],
+      "activation_stats": {
+        "mean": -0.02543426863849163,
+        "std": 0.12172342836856842,
+        "min": -0.5072726607322693,
+        "max": 0.4581092298030853
+      },
+      "inference_time": 232.0997178554535
+    },
+    {
+      "key": "pair30_B",
+      "pair_id": 30,
+      "response": "B",
+      "category": "mixed",
+      "text_preview": "The fastest way to improve critical thinking: every time you believe something, ask 'what would chan",
+      "dimensions": {
+        "comprehension": 0.028309769507589712,
+        "memory_encoding": -0.044168330890048915,
+        "sustained_attention": -0.007095271039561666,
+        "confusion": 0.03971606627547313,
+        "dmn_suppression": 0.03524661046077511
+      },
+      "dim_array": [
+        0.028309769507589712,
+        -0.044168330890048915,
+        -0.007095271039561666,
+        0.03971606627547313,
+        0.03524661046077511
+      ],
+      "activation_stats": {
+        "mean": 0.009888735599815845,
+        "std": 0.11320273578166962,
+        "min": -0.3709842264652252,
+        "max": 0.4739691913127899
+      },
+      "inference_time": 273.15391278266907
+    }
+  ]
+}

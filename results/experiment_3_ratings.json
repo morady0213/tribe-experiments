@@ -1,0 +1,216 @@
+{
+  "n_rated": 30,
+  "n_total": 30,
+  "ratings": [
+    {
+      "pair_id": 1,
+      "category": "sycophancy",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 2,
+      "category": "sycophancy",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 3,
+      "category": "sycophancy",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 4,
+      "category": "sycophancy",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 5,
+      "category": "sycophancy",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 6,
+      "category": "accuracy",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 7,
+      "category": "accuracy",
+      "human_preference": "A",
+      "intended_better": "B",
+      "agrees_with_intended": false
+    },
+    {
+      "pair_id": 8,
+      "category": "accuracy",
+      "human_preference": "A",
+      "intended_better": "B",
+      "agrees_with_intended": false
+    },
+    {
+      "pair_id": 9,
+      "category": "accuracy",
+      "human_preference": "A",
+      "intended_better": "B",
+      "agrees_with_intended": false
+    },
+    {
+      "pair_id": 10,
+      "category": "accuracy",
+      "human_preference": "A",
+      "intended_better": "B",
+      "agrees_with_intended": false
+    },
+    {
+      "pair_id": 11,
+      "category": "clarity",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 12,
+      "category": "clarity",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 13,
+      "category": "clarity",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 14,
+      "category": "clarity",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 15,
+      "category": "clarity",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 16,
+      "category": "depth",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 17,
+      "category": "depth",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 18,
+      "category": "depth",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 19,
+      "category": "depth",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 20,
+      "category": "depth",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 21,
+      "category": "coherence",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 22,
+      "category": "coherence",
+      "human_preference": "A",
+      "intended_better": "B",
+      "agrees_with_intended": false
+    },
+    {
+      "pair_id": 23,
+      "category": "coherence",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 24,
+      "category": "coherence",
+      "human_preference": "A",
+      "intended_better": "B",
+      "agrees_with_intended": false
+    },
+    {
+      "pair_id": 25,
+      "category": "coherence",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 26,
+      "category": "mixed",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 27,
+      "category": "mixed",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 28,
+      "category": "mixed",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 29,
+      "category": "mixed",
+      "human_preference": "B",
+      "intended_better": "B",
+      "agrees_with_intended": true
+    },
+    {
+      "pair_id": 30,
+      "category": "mixed",
+      "human_preference": "A",
+      "intended_better": "B",
+      "agrees_with_intended": false
+    }
+  ]
+}

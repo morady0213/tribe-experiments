@@ -1,0 +1,390 @@
+{
+  "n_pairs": 30,
+  "sub_experiment_a": {
+    "name": "Brain as Judge",
+    "accuracy": 0.7,
+    "correct": 21,
+    "per_category": {
+      "accuracy": {
+        "n": 5,
+        "correct": 1
+      },
+      "clarity": {
+        "n": 5,
+        "correct": 5
+      },
+      "coherence": {
+        "n": 5,
+        "correct": 2
+      },
+      "depth": {
+        "n": 5,
+        "correct": 4
+      },
+      "mixed": {
+        "n": 5,
+        "correct": 4
+      },
+      "sycophancy": {
+        "n": 5,
+        "correct": 5
+      }
+    },
+    "predictions": [
+      {
+        "pair_id": 1,
+        "category": "sycophancy",
+        "score_a": 0.029764673422195013,
+        "score_b": 0.1575358695595897,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 2,
+        "category": "sycophancy",
+        "score_a": -0.09400102589954101,
+        "score_b": -0.07586538463872045,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 3,
+        "category": "sycophancy",
+        "score_a": -0.02641895283072295,
+        "score_b": 0.10636341514075989,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 4,
+        "category": "sycophancy",
+        "score_a": -0.016923208888658288,
+        "score_b": 0.05009323981251877,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 5,
+        "category": "sycophancy",
+        "score_a": -0.04539601801759924,
+        "score_b": 0.006762582959141176,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 6,
+        "category": "accuracy",
+        "score_a": 0.10790971308307493,
+        "score_b": 0.05624750292068993,
+        "brain_picks_b": 0,
+        "human_prefers_b": 1,
+        "correct": false
+      },
+      {
+        "pair_id": 7,
+        "category": "accuracy",
+        "score_a": 0.0916175388468777,
+        "score_b": 0.20012209356344843,
+        "brain_picks_b": 1,
+        "human_prefers_b": 0,
+        "correct": false
+      },
+      {
+        "pair_id": 8,
+        "category": "accuracy",
+        "score_a": 0.0548189751314853,
+        "score_b": 0.11228914318234401,
+        "brain_picks_b": 1,
+        "human_prefers_b": 0,
+        "correct": false
+      },
+      {
+        "pair_id": 9,
+        "category": "accuracy",
+        "score_a": 0.03251295674424823,
+        "score_b": 0.010751675941484531,
+        "brain_picks_b": 0,
+        "human_prefers_b": 0,
+        "correct": true
+      },
+      {
+        "pair_id": 10,
+        "category": "accuracy",
+        "score_a": 0.10197994687215986,
+        "score_b": 0.12366764167481133,
+        "brain_picks_b": 1,
+        "human_prefers_b": 0,
+        "correct": false
+      },
+      {
+        "pair_id": 11,
+        "category": "clarity",
+        "score_a": -0.00660603197199271,
+        "score_b": 0.09817076758547885,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 12,
+        "category": "clarity",
+        "score_a": -0.025784142279882266,
+        "score_b": 0.10533563351938185,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 13,
+        "category": "clarity",
+        "score_a": -0.02256565333127233,
+        "score_b": 0.0884339293099645,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 14,
+        "category": "clarity",
+        "score_a": 0.059283032325359676,
+        "score_b": 0.15965052978469885,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 15,
+        "category": "clarity",
+        "score_a": 0.1128097554954029,
+        "score_b": 0.1761513526388943,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 16,
+        "category": "depth",
+        "score_a": -0.04386316486967425,
+        "score_b": 0.07572595169684343,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 17,
+        "category": "depth",
+        "score_a": -0.11889492732136817,
+        "score_b": -0.011765186266144962,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 18,
+        "category": "depth",
+        "score_a": 0.12773968755738,
+        "score_b": 0.12577195031343855,
+        "brain_picks_b": 0,
+        "human_prefers_b": 1,
+        "correct": false
+      },
+      {
+        "pair_id": 19,
+        "category": "depth",
+        "score_a": -0.0982047634634998,
+        "score_b": 0.009753412351134682,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 20,
+        "category": "depth",
+        "score_a": -0.15289767431341178,
+        "score_b": 0.06177516147851351,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 21,
+        "category": "coherence",
+        "score_a": 0.09098387993246018,
+        "score_b": 0.1259725871125758,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 22,
+        "category": "coherence",
+        "score_a": -0.04950031694721774,
+        "score_b": 0.0555313046214199,
+        "brain_picks_b": 1,
+        "human_prefers_b": 0,
+        "correct": false
+      },
+      {
+        "pair_id": 23,
+        "category": "coherence",
+        "score_a": -0.06713082417417564,
+        "score_b": -0.01512956748297169,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 24,
+        "category": "coherence",
+        "score_a": -0.012624476420228386,
+        "score_b": 0.05686438730180201,
+        "brain_picks_b": 1,
+        "human_prefers_b": 0,
+        "correct": false
+      },
+      {
+        "pair_id": 25,
+        "category": "coherence",
+        "score_a": 0.03930743239284218,
+        "score_b": 0.027862563021661138,
+        "brain_picks_b": 0,
+        "human_prefers_b": 1,
+        "correct": false
+      },
+      {
+        "pair_id": 26,
+        "category": "mixed",
+        "score_a": -0.022688305556658163,
+        "score_b": 0.047709210966225574,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 27,
+        "category": "mixed",
+        "score_a": -0.035108452805386214,
+        "score_b": 0.10897097223298101,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 28,
+        "category": "mixed",
+        "score_a": -0.012610486208522752,
+        "score_b": 0.05613491380995507,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 29,
+        "category": "mixed",
+        "score_a": -0.027620784262728765,
+        "score_b": 0.06905079229533138,
+        "brain_picks_b": 1,
+        "human_prefers_b": 1,
+        "correct": true
+      },
+      {
+        "pair_id": 30,
+        "category": "mixed",
+        "score_a": -0.12251767384282962,
+        "score_b": 0.0018622948433477428,
+        "brain_picks_b": 1,
+        "human_prefers_b": 0,
+        "correct": false
+      }
+    ]
+  },
+  "sub_experiment_b": {
+    "name": "Brain Dimension Analysis",
+    "mean_delta_when_b_preferred": [
+      0.09523193609320157,
+      0.028250839024069746,
+      0.036949153352869815,
+      0.020888898491842063,
+      -0.05828848367745525
+    ],
+    "mean_delta_when_a_preferred": [
+      0.09362213056211935,
+      0.03281798086279326,
+      0.03371948398195547,
+      0.03491529332022807,
+      -0.072578184557645
+    ],
+    "per_dimension_correlation": {
+      "Comprehension": 0.011116769720224792,
+      "Memory": -0.12839903389507076,
+      "Attention": 0.04299477551069925,
+      "Confusion": -0.20787571796623372,
+      "DMN suppress.": 0.1807232667072246
+    }
+  },
+  "sub_experiment_c": {
+    "name": "Baseline vs Augmented Reward Model",
+    "random_accuracy": 0.7666666666666667,
+    "brain_judge_accuracy": 0.7,
+    "baseline_accuracy": 0.7666666666666667,
+    "augmented_accuracy": 0.7666666666666667,
+    "improvement": 0.0,
+    "top_features": [
+      {
+        "name": "delta2_Attention",
+        "importance": 0.20131721575000947,
+        "coefficient": 0.20131721575000947
+      },
+      {
+        "name": "A_Attention",
+        "importance": 0.16329631227324748,
+        "coefficient": -0.16329631227324748
+      },
+      {
+        "name": "delta2_DMN suppress.",
+        "importance": 0.1379167160330626,
+        "coefficient": -0.1379167160330626
+      },
+      {
+        "name": "A_DMN suppress.",
+        "importance": 0.12571312623534073,
+        "coefficient": -0.12571312623534073
+      },
+      {
+        "name": "B_Memory",
+        "importance": 0.12432065640579576,
+        "coefficient": -0.12432065640579576
+      },
+      {
+        "name": "delta_Confusion",
+        "importance": 0.11077722935319949,
+        "coefficient": -0.11077722935319949
+      },
+      {
+        "name": "delta_Attention",
+        "importance": 0.09445286890434183,
+        "coefficient": 0.09445286890434183
+      },
+      {
+        "name": "B_Attention",
+        "importance": 0.08433716075609886,
+        "coefficient": -0.08433716075609886
+      },
+      {
+        "name": "delta_Memory",
+        "importance": 0.08008888591115715,
+        "coefficient": -0.08008888591115715
+      },
+      {
+        "name": "delta_DMN suppress.",
+        "importance": 0.0782022655145871,
+        "coefficient": 0.0782022655145871
+      }
+    ]
+  }
+}

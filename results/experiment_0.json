@@ -1,0 +1,17 @@
+{
+  "device": "cuda",
+  "text_only": true,
+  "weights_dir": "C:\\Users\\Genral Rady\\Downloads\\tribe-experiments\\tribe-experiments\\weights\\tribev2",
+  "n_vertices": 20484,
+  "gpu_memory_allocated_gb": 0.72,
+  "gpu_memory_reserved_gb": 0.86,
+  "test_text": "The mitochondria is the powerhouse of the cell. It converts nutrients into adenosine triphosphate, or ATP, which provides energy for cellular processes.",
+  "output_shape": [
+    20484
+  ],
+  "value_range": [
+    -0.5342456698417664,
+    0.5766443014144897
+  ],
+  "inference_time_s": 2648.370223760605
+}

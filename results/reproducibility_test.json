@@ -1,0 +1,38 @@
+{
+  "reproducibility": {
+    "correlations": [
+      0.9999999999999999,
+      0.9999999999999999,
+      0.9999999999999999
+    ],
+    "max_diffs": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "mean_diffs": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "signal_to_noise": Infinity,
+    "verdict": "EXCELLENT \u2014 signal is 5x+ stronger than run-to-run noise"
+  },
+  "length_control": {
+    "word_counts": {
+      "a": 50,
+      "b": 55
+    },
+    "max_diff": 0.31975600123405457,
+    "mean_diff": 0.07957182824611664,
+    "pct_changed": 30.125951962507326,
+    "dimension_deltas": {
+      "Comprehension": 0.12364877041368089,
+      "Memory encoding": 0.054498294785541176,
+      "Sustained attention": 0.09523828810415996,
+      "Confusion": 0.07170326919175231,
+      "DMN suppression": -0.0900210099513712
+    },
+    "verdict": "STRONG \u2014 quality signal persists even with matched length"
+  }
+}

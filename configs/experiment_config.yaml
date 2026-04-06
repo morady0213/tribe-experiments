@@ -1,0 +1,55 @@
+# Experiment configuration
+# Adjust these based on your hardware and preferences.
+
+# Model settings
+tribe_v2:
+  weights_dir: "./weights/tribev2"
+  text_only: true
+  device: "auto"  # "auto", "cuda", "cpu"
+
+# ROI extraction
+roi:
+  atlas: "schaefer"
+  n_parcels: 1000  # or 400 for coarser but faster
+  yeo_networks: 7
+
+# Cognitive dimensions (which to include in scoring)
+dimensions:
+  comprehension: true
+  memory_encoding: true
+  sustained_attention: true
+  confusion: true  # Used as negative signal
+  dmn_suppression: true
+
+# Calibration MLP
+calibration:
+  hidden_size: 32
+  learning_rate: 0.001
+  epochs: 200
+  weight_decay: 0.0001
+  n_folds: 5  # Cross-validation folds
+
+# Preference labeling
+preferences:
+  margin_threshold: 0.3  # Minimum score difference to include pair in DPO
+  temperature_low: 0.3   # For generating "better" responses
+  temperature_high: 1.0  # For generating "worse" responses
+
+# DPO training (Experiment 5)
+dpo:
+  base_model: "meta-llama/Llama-3.2-8B-Instruct"
+  lora_r: 16
+  lora_alpha: 32
+  lora_target_modules: ["q_proj", "v_proj", "k_proj", "o_proj"]
+  learning_rate: 0.00005
+  batch_size: 4
+  gradient_accumulation_steps: 8  # Effective batch = 32
+  max_length: 1024
+  n_preference_pairs: 5000
+  n_epochs: 1
+  beta: 0.1  # DPO temperature
+
+# Evaluation
+evaluation:
+  n_eval_samples: 50
+  benchmarks: ["mt_bench"]  # Add "alpaca_eval", "mmlu" if desired

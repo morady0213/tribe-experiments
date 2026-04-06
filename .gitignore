@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+tribe_env/
+
+# Model weights (too large for GitHub)
+weights/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Cache
+cache/
+*.cache
+.cache/
+
+# Large raw results
+results/raw_activations/
+results/*.npy
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.tmp
+{scripts,configs,notebooks,results,visualizations}
